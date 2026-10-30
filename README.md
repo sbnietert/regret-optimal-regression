@@ -1,0 +1,1 @@
+Code for experiments and plots in NeurIPS 2026 paper "Regret-Optimal Wasserstein-Robust Linear Regression" by Sloan Nietert and Daniel Kuhn. See subfolder READMEs for instructions on reproducing their respective figures.

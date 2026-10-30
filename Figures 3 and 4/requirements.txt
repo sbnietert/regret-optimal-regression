@@ -1,0 +1,7 @@
+numpy>=2.0
+pandas>=2.2
+torch>=2.5
+matplotlib>=3.9
+jupyterlab>=4.3
+nbclient>=0.10
+ipykernel>=6.29
